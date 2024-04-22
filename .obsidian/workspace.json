@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49670ae35d79609",
+  "active": "4ffc1a1158bebb81",
   "lastOpenFiles": [
+    "media",
+    "grammar",
+    "vocab",
     "README.md"
   ]
 }
