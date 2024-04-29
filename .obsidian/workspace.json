@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "608cb1c0b9c903f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "vocab.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffc1a1158bebb81",
+  "active": "608cb1c0b9c903f9",
   "lastOpenFiles": [
+    "README.md",
+    "vocab.md",
     "media",
     "grammar",
-    "vocab",
-    "README.md"
+    "vocab"
   ]
 }
