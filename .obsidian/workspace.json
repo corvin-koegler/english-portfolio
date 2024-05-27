@@ -4,70 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "135df3881afccfcb",
-        "type": "split",
+        "id": "9a61d64c1a30a663",
+        "type": "tabs",
         "children": [
           {
-            "id": "9a61d64c1a30a663",
-            "type": "tabs",
-            "dimension": 68.96929824561403,
-            "children": [
-              {
-                "id": "c49670ae35d79609",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "README.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "608cb1c0b9c903f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "vocab.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "984b5ec91675ae18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "exercises/2024-05-27.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "c49670ae35d79609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "65f3df4ebaf43e7d",
-            "type": "tabs",
-            "dimension": 31.030701754385966,
-            "children": [
-              {
-                "id": "c341bbbfc6fdcaf5",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {}
-                }
+            "id": "608cb1c0b9c903f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocab.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "984b5ec91675ae18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercises/2024-05-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
