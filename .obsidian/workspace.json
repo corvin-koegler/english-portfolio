@@ -10,7 +10,7 @@
           {
             "id": "9a61d64c1a30a663",
             "type": "tabs",
-            "dimension": 32.01754385964912,
+            "dimension": 68.96929824561403,
             "children": [
               {
                 "id": "c49670ae35d79609",
@@ -54,7 +54,7 @@
           {
             "id": "65f3df4ebaf43e7d",
             "type": "tabs",
-            "dimension": 67.98245614035088,
+            "dimension": 31.030701754385966,
             "children": [
               {
                 "id": "c341bbbfc6fdcaf5",
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8a58da28ed8c91ec",
@@ -133,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "exercises/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "exercises/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "exercises/2024-05-27.md"
               }
             }
           }
@@ -192,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ffc1a1158bebb81",
+  "active": "984b5ec91675ae18",
   "lastOpenFiles": [
-    "exercises/2024-05-27.md",
     "Untitled.md",
+    "exercises/2024-05-27.md",
     "exercises/diagram.drawio.md",
     "vocab.md",
     "exercises",
