@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "984b5ec91675ae18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercises/2024-05-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocab.md",
+                "file": "exercises/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocab.md",
+                "file": "exercises/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocab.md"
+                "file": "exercises/2024-05-27.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "608cb1c0b9c903f9",
+  "active": "984b5ec91675ae18",
   "lastOpenFiles": [
-    "README.md",
     "vocab.md",
+    "exercises/2024-05-27.md",
+    "exercises",
+    "README.md",
     "media",
     "grammar",
     "vocab"
