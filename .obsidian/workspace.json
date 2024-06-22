@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "509549bbcb236204",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49670ae35d79609",
+  "active": "509549bbcb236204",
   "lastOpenFiles": [
     "media/Darknet Diaries.md",
     "vocab/Security.md",
