@@ -2,7 +2,12 @@
 tags:
   - vocab
   - engineering
+sources: "[[Software Testing Strategies]]"
 ---
+## Purpose
+
+Tests evaluate the state of a system. This includes subjective criteria like acceptance testing as well as objective criteria like unit tests. There are software development strategies revolved around writing tests. Popular is Test-Driven-Development (TDD) where the developer defines the behaviour of a unit first by writing tests and then writes the actual functionality frequently evaluating it against the tests. This creates some overhead in the development process but in most cases reduces the time spent on debugging and documentation. 
+
 ## Specific Tests
 
 | Word                | Definition                                                               |
@@ -20,6 +25,3 @@ tags:
 | Security testing    | Testing the system against known security vulnerabilities.               |
 | A/B testing         | Testing a change against two groups of users.                            |
 | White-Box testing   | Tests aimed purely at internal systems and logic.                        |
-## Purpose
-
-Tests evaluate the state of a system 
