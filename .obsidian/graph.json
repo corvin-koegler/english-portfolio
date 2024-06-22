@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:media  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048454
+      }
     }
   ],
   "collapse-display": true,
