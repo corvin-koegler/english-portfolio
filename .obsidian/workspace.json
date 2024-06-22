@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "caa86f4d08f4882c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "media/Why do we celebrate incompetent leaders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocab/Security.md",
+                "file": "media/Why do we celebrate incompetent leaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocab/Security.md",
+                "file": "media/Why do we celebrate incompetent leaders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocab/Security.md"
+                "file": "media/Why do we celebrate incompetent leaders.md"
               }
             }
           },
@@ -158,15 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49670ae35d79609",
+  "active": "caa86f4d08f4882c",
   "lastOpenFiles": [
+    "vocab/Leadership.md",
+    "media/Why do we celebrate incompetent leaders.md",
+    "vocab/Presentation.md",
+    "media/How to avoid death by PowerPoint.md",
+    "media/Software Testing Strategies.md",
+    "vocab/Security.md",
     "vocab/Testing.md",
     "media/Darknet Diaries.md",
-    "vocab/Security.md",
-    "media/Software Testing Strategies.md",
     "vocab.md",
     "exercises/2024-05-27.md",
-    "Untitled.md",
     "exercises/diagram.drawio.md",
     "exercises",
     "README.md",
