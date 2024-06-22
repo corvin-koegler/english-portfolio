@@ -128,6 +128,18 @@
                 "file": "vocab/Testing.md"
               }
             }
+          },
+          {
+            "id": "debf11689a353eab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
