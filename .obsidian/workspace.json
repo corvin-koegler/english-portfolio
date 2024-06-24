@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "media/Why do we celebrate incompetent leaders.md",
+                "file": "media/Lecture - How do I quote.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Why do we celebrate incompetent leaders.md",
+                "file": "media/Lecture - How do I quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Why do we celebrate incompetent leaders.md",
+                "file": "media/Lecture - How do I quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Why do we celebrate incompetent leaders.md"
+                "file": "media/Lecture - How do I quote.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "caa86f4d08f4882c",
   "lastOpenFiles": [
+    "media/Why do we celebrate incompetent leaders.md",
+    "media/Lecture - How do I quote.md",
     "media/Software Testing Strategies.md",
     "media/How to avoid death by PowerPoint.md",
-    "media/Why do we celebrate incompetent leaders.md",
     "vocab/Leadership.md",
     "vocab/Presentation.md",
     "vocab/Security.md",
