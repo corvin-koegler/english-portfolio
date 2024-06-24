@@ -14,4 +14,4 @@ The volume of quotes in the essay should follow the PEE principle (Point Example
 
 ## Citing and referencing
 
-The base of academic writing is 
+Academic texts are bound to evidence and information that is backed by sources. When using source information the origin must be cited. 
