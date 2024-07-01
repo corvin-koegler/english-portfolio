@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "172317a844e052b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa86f4d08f4882c",
+  "active": "172317a844e052b4",
   "lastOpenFiles": [
     "media/Why do we celebrate incompetent leaders.md",
     "media/Lecture - How do I quote.md",
