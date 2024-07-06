@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "media/Lecture - How do I quote.md",
+                "file": "exercises/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Lecture - How do I quote.md",
+                "file": "exercises/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Lecture - How do I quote.md",
+                "file": "exercises/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/Lecture - How do I quote.md"
+                "file": "exercises/2024-05-27.md"
               }
             }
           },
@@ -173,8 +173,9 @@
   },
   "active": "caa86f4d08f4882c",
   "lastOpenFiles": [
-    "media/Why do we celebrate incompetent leaders.md",
+    "README.md",
     "media/Lecture - How do I quote.md",
+    "media/Why do we celebrate incompetent leaders.md",
     "media/Software Testing Strategies.md",
     "media/How to avoid death by PowerPoint.md",
     "vocab/Leadership.md",
@@ -186,7 +187,6 @@
     "exercises/2024-05-27.md",
     "exercises/diagram.drawio.md",
     "exercises",
-    "README.md",
     "media",
     "grammar",
     "vocab"
