@@ -10,3 +10,16 @@
 - **Visualizing Dependencies**: Dependency visualization helps in identifying problematic dependencies that can affect the modularity and maintainability of the code.
 - **Evolution and Maintenance**: Studies on visualizing the evolution of software architectures can help in identifying architectural drift and erosion over time.
 - **Tool Support for Architecture Visualization**: Development and evaluation of tools that support architecture visualization and analysis.
+
+## Sources
+
+- Architecture Visualization: A Survey
+- Software Architecture Visualization: An Evaluation Framework and Its Application
+- Detection and Visualization of Architectural Smells
+- Visualization of Architectural Styles in Source Code
+- Visualizing Code Dependencies for Architectural Assessment
+- Visualization of Program-Dependency Graphs for Debugging
+- Visualizing the Evolution of Software Using SoftChange
+- Visualizing Software Evolution with EvoStreets
+
+### Products
