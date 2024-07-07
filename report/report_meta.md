@@ -35,3 +35,13 @@
 - https://github.com/CoatiSoftware/Sourcetrail
 - https://gource.io/
 - https://github.com/pomber/code-surfer
+
+## Structure
+
+1. Abstract
+2. Contents
+3. Introduction
+4. Body
+5. Conclusions
+6. References
+7. Bibliography
