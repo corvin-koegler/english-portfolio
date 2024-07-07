@@ -25,6 +25,7 @@
 - Software Visualization for Maintenance
 - Interactive Visualization Techniques for Searching and Exploring Hierarchical and Temporal Data in Software Repositories
 - Visualization for Software Understanding and Analysis
+- Empirical Studies on the Effectiveness of Software Visualization
 
 ### Products
 
