@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:exercises  ",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14048454
       }
+    },
+    {
+      "query": "path:report  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,
@@ -34,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.635416666666667,
+  "repelStrength": 11.6666666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 140,
   "scale": 1.5759215085010436,
   "close": false
 }
