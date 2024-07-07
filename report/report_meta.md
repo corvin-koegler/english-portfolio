@@ -21,6 +21,10 @@
 - Visualization of Program-Dependency Graphs for Debugging
 - Visualizing the Evolution of Software Using SoftChange
 - Visualizing Software Evolution with EvoStreets
+- Code Bubbles
+- Software Visualization for Maintenance
+- Interactive Visualization Techniques for Searching and Exploring Hierarchical and Temporal Data in Software Repositories
+- Visualization for Software Understanding and Analysis
 
 ### Products
 
