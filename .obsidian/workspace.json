@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "report/report_01.md",
+                "file": "exercises/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "report/report_01.md",
+                "file": "exercises/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "report/report_01.md",
+                "file": "exercises/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "report/report_01.md"
+                "file": "exercises/2024-05-27.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "fc0aec8bce122f39",
   "lastOpenFiles": [
-    "report/report_meta.md",
     "report/report_01.md",
+    "report/report_meta.md",
     "vocab/Security.md",
     "exercises/2024-05-27.md",
     "report",
