@@ -7,4 +7,9 @@ One of the biggest struggles new hires of an established team have is understand
 ## Content
 
 1. Introduction
-2. 
+2. Architecture
+	1. Dependencies
+	2. State of Modularization
+	3. Test coverage
+3. Evolution
+4. Communication
