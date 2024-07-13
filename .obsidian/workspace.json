@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercises/2024-05-27.md",
+                "file": "report/report_002.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercises/2024-05-27.md",
+                "file": "report/report_002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercises/2024-05-27.md",
+                "file": "report/report_002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/2024-05-27.md"
+                "file": "report/report_002.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "fc0aec8bce122f39",
   "lastOpenFiles": [
+    "exercises/2024-05-27.md",
+    "report/report_002.md",
     "media/papers/Voinea and Telea - 2009 - Visual querying and analysis of large software rep.pdf",
     "media/papers/Merino et al. - 2019 - VISON An Ontology-Based Approach for Software Vis.pdf",
     "media/papers/Merino et al. - 2018 - Towards actionable visualization for software deve.pdf",
@@ -192,7 +194,6 @@
     "report/report_01.md",
     "report/report_meta.md",
     "vocab/Security.md",
-    "exercises/2024-05-27.md",
     "report",
     "README.md",
     "media/Lecture - How do I quote.md",
@@ -205,7 +206,6 @@
     "media/Darknet Diaries.md",
     "vocab.md",
     "exercises/diagram.drawio.md",
-    "exercises",
-    "media"
+    "exercises"
   ]
 }
