@@ -13,8 +13,10 @@ This report researches modern alternatives to the traditional visualization tool
 
 ## Traditional Visualizations
 
-Traditional visualization tools for software architecture are manually created. They specifically serve as a previous step to actually writing code and help picking up on unwanted dependencies, architectural code smells and other architectural issues. 
+Traditional visualization tools for software architecture are manually created. They specifically serve as a previous step to actually writing code and help picking up on unwanted dependencies, architectural code smells and other architectural issues. For example it's easy to see if demeters law was followed because in an UML Class diagrams its easy to spot violating connections between classes. Especially in the early days it was significantly faster to work out the rough code structure before writing the first line of code. The owner of the product specified what the code should do and developers constructed the architecture around that. Lastly programmers typed the code and fixed any errors emerging. If the code worked as intended and was tested enough it was ready to ship on a physical medium. If afterwards issues emerged it was logistically hard to bring a patch to the customer. 
 ### UML Diagrams
+
+UML (Class) diagrams are a great tool to design the architecture of a application. While unnecessary on smaller projects its a great way to iterate on it before existing code prevents changes. In UML Diagrams the future code gets structured in classes planning out architectural patterns, needed methods, coupling and communication between classes and instances. Afterwards most of the code writing is simple enough to get handled asynchronously because the interface and shape is already defined. They are a great tool for teachers to test the understanding of students about architectural patterns without having to 
 ### Flow Charts
 ### Gnatt Diagrams
 ## Modern Visualizations
