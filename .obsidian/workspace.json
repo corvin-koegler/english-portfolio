@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a39bad45865d8a36",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "caa86f4d08f4882c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "report/report_002.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "43ca0439fa39ad5e",
         "type": "tabs",
         "children": [
