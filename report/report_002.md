@@ -58,4 +58,6 @@ One of the biggest struggles new hires of an established team have is understand
 
 ## Architecture
 
-In the evolution of projects most start as prototypes or additional features of existing projects.  
+In the evolution of projects most start as prototypes or additional features of existing projects that then grow to become their own. A prototype by definition is a project that aims to rapidly test new features in the least time possible. It achieves that at the cost of longevity and clear thought ought structure. Software prototypes tend to cut a lot of corners because they are designed to show results as quickly as possible. This is called technical debt. With time this technical debt hinders the developers to extent the product with new functionality because additional behaviour is prone to break the existing one due to unforeseen coupling.
+
+At this point it's advisable to refactor the existing code to comply with generally accepted architectural principles. In most cases this means modularizing the code, implementing interfaces to further decuple the modules and spending some time to follow Liskov's Substitution Principle. In many cases 
