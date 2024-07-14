@@ -41,10 +41,10 @@ Creating a Gantt chart involves several systematic steps to visually represent t
 Modern visualization approaches mostly failed to gain traction in industry applications. There seems to be a void between severely outdated tools from the beginning of the 2000s and futuristic ones made for augmented and virtual reality. While visualization is present in most modern development toolkits none aim directly to show the architecture or relation between files.
 
 Most developers use a IDE to write their code. These come loaded with tools and plugins that sometimes leverage visualizations. As an example most IDEs bring a Git integration that visualizes evolutionary data about the project in a graph structure. While this is certainly useful the lack of architectural visualization is surprising. Most architectural and structural visualizations aim to grant researchers insights into open source repositories for analytics. Therefore most tools are somewhat one-off prototypes that serve in the research context and are dropped afterwards. A good chunk of them were developed in the early 2000s when UML and waterfall approaches were vastly more popular than today.
-### Code City
+### Code Park
 
 Code city is a 3D software visualization tool that builds on the human understanding of spatial relations in the environment. It uses cities as metaphors for making the code approachable even in large project sizes. For example buildings represent classes while districts represent packages/modules. The properties of the buildings such as height and base size can describe different metrics like lines of code in the class, number of methods or complexity. Using these parameters architectural flaws can show in overly big building or district sizes. The model is designed to allow exploration of existing code and integration with plugins that deepen the understanding of the user.
 
-A very useful addon is the application of heat maps  that can map colour to more dynamic metrics like test coverage, user or data flows. The experience is highly customizable at the cost of massive resource overhead. While studies using code city showed an improved experience of people unfamiliar with the code base the navigation is fairly complex requiring VR or AR equipment. It is very useful to showcase the evolution of the codebase over time and immensely immersive. 
+
 ### gource.io
 ## Conclusion
