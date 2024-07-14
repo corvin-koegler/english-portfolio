@@ -23,10 +23,6 @@ One of the biggest struggles new hires of an established team have is understand
     - Importance of modular design in software development.
     - Methods to visualize and assess the modularity of a codebase.
     - Case studies or examples of successful modularization.
-- **2.3 Test Coverage**
-    - Role of testing in software development.
-    - Visual tools to track and improve test coverage.
-    - Impact of test coverage on software quality and maintainability.
 
 **3. Evolution**
 
@@ -62,4 +58,12 @@ In the evolution of projects most start as prototypes or additional features of 
 
 At this point it's advisable to refactor the existing code to comply with generally accepted architectural principles. In most cases this means modularizing the code, implementing interfaces to further decuple the modules and spending some time to follow Liskov's Substitution Principle. In many cases developers stay under pressure to implement new features during this time as well putting the project in a continuous half refactored state. 
 
-As a new developer in the team it's hard to follow these changes and developments in repositories with multiple thousands of lines of code because the mental graph of dependencies inside the code needs time and experience to build. Like any job it's expected to produce measurable output after some time forcing the new hire to seek help from more experienced co-workers or contributing blind and producing error prone code. Additionally frequent job rotations are 
+As a new developer in the team it's hard to follow these changes and developments in repositories with multiple thousands of lines of code because the mental graph of dependencies inside the code needs time and experience to build. Like any job it's expected to produce measurable output after some time forcing the new hire to seek help from more experienced co-workers or contributing blind and producing error prone code. Additionally frequent job rotations are the best way to increase salary resulting in less experienced developers that stay on the team.
+
+It makes sense to visualize the relevant architecture to avoid this. Dependency graphs can prevent someone from making breaking changes to a piece of code and visualizations that capture the overall architecture of a project help to identify areas of improvement. Having tools for that purpose can aid in developing a sustainable and extendable product from the first line of code significantly improving ramp up time on new developers overall improving the code quality.
+
+## Evolution
+
+Very few software products are developed once, deployed and then never altered again. Most of them are in a state of constant evolution with weekly or even nightly builds being released to users. In that context it could be beneficial to review the evolution of the project, analysing how the project changed over time and what outside and internal factors led to improvements of downfalls.
+
+At employee level these statics can help to identify quality contributors and retaining valuable 
