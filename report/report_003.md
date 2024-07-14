@@ -30,7 +30,9 @@ Flow charts can be automatically generated from code as well but are often prone
 
 ### Gnatt Diagrams
 
-Gnatt diagrams are the third popular visualization type. They are often used to find bottlenecks in existing code. They are great for visualizing 
+Gnatt diagrams are the third popular visualization type. They are often used to find bottlenecks in existing code by showing which parts of the code execute at each given time. In this case they allow only marginally information on the architecture but highlight possible sources of misconfiguration represented by patterns in the chart. They can also aid in highlighting indirect dependencies which in turn can be optimized in the architecture.
+
+While it is possible to manually create them
 ## Modern Visualizations
 ### Code City
 ### gource.io
