@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "3ffd8ca90c574c1d",
+            "id": "fc0aec8bce122f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,21 +26,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc0aec8bce122f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "report/report_003.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "report/report_003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "report/report_003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "report/report_003.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc0aec8bce122f39",
+  "active": "caa86f4d08f4882c",
   "lastOpenFiles": [
-    "report/report_002.md",
+    "report/report_meta.md",
     "report/report_003.md",
-    "report/report_01.md",
+    "report/report_001.md",
+    "report/report_002.md",
     "exercises/2024-05-27.md",
     "media/papers/Voinea and Telea - 2009 - Visual querying and analysis of large software rep.pdf",
     "media/papers/Merino et al. - 2019 - VISON An Ontology-Based Approach for Software Vis.pdf",
@@ -193,7 +177,6 @@
     "media/papers/Paratte et al. - Compressive Embedding and Visualization using Grap.pdf",
     "media/papers/Anslow - Collaborative Software Visualization in Co-located.pdf",
     "media/papers/Merino et al. - 2018 - A systematic literature review of software visuali.pdf",
-    "report/report_meta.md",
     "vocab/Security.md",
     "report",
     "README.md",
