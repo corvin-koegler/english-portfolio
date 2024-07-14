@@ -32,8 +32,12 @@ Flow charts can be automatically generated from code as well but are often prone
 
 Gnatt diagrams are the third popular visualization type. They are often used to find bottlenecks in existing code by showing which parts of the code execute at each given time. In this case they allow only marginally information on the architecture but highlight possible sources of misconfiguration represented by patterns in the chart. They can also aid in highlighting indirect dependencies which in turn can be optimized in the architecture.
 
-While it is possible to manually create them
+While it is possible to manually create them its always been more popular to automatically generate gnatt diagrams with analytics tools. 
 ## Modern Visualizations
+
+Modern visualization approaches mostly failed to gain traction in industry applications. There seems to be a void between severely outdated tools from the beginning of the 2000s and futuristic ones made for augmented and virtual reality. While visualization is present in most modern development toolkits none aim directly to show the architecture or relation between files.
+
+Most popular are graphs for the git integration of IDEs that show evolutionary data of branches and commits in the past or resource overviews and workflow visualizations. 
 ### Code City
 ### gource.io
 ## Conclusion
