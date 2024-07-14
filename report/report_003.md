@@ -7,9 +7,13 @@ In construction one of the most popular design approaches is the waterfall conce
 
 Companies picked up on this and largely switched to agile developments techniques that are specifically designed to accommodate the new dynamic style of development. It is now significantly cheaper to bring a product to the customer and is even more normal to find beta state applications that are intentionally rapidly developing and instable. Because of software frameworks and libraries most base functionality is ready for production reducing the need for writing new software to the unique aspects of the projects.
 
-Somewhere in this transition the traditional visualization tools lost most of their relevance. It's a significant overhead to update a UML diagram every time 
+Somewhere in this transition the traditional visualization tools lost most of their relevance. It's a significant overhead to update a UML diagram every time a library gets updated. And automatic tools never really gained traction in industry applications. While most traditional developers have to learn about UML diagrams and flowcharts during their education a significant chunk self thought developers don't. With modern tools it's not important enough to take the time to visualize the codebase until there is a good enough reason for it.
+
+This report researches modern alternatives to the traditional visualization tools for software architecture discussing their advantages and drawbacks in comparison to traditional approaches and if there even is the need to use them anymore.
 
 ## Traditional Visualizations
+
+Traditional visualization tools for software architecture are manually created. They specifically serve as a previous step to actually writing code and help picking up on unwanted dependencies, architectural code smells and other architectural issues. 
 ### UML Diagrams
 ### Flow Charts
 ### Gnatt Diagrams
