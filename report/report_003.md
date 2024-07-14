@@ -19,15 +19,18 @@ Traditional visualization tools for software architecture are manually created. 
 UML (Class) diagrams are a great tool to design the architecture of a application. While unnecessary on smaller projects its a great way to iterate on it before existing code prevents changes. In UML Diagrams the future code gets structured in classes planning out architectural patterns, needed methods, coupling and communication between classes and instances. Afterwards most of the code writing is simple enough to get handled asynchronously because the interface and shape is already defined. They are a great tool for teachers to test the understanding of students about architectural patterns without having to make them write large amounts of code.
 
 They fit perfectly within the waterfall design approach because they allow building the whole structure of the project from the ground up and are fast to change. On larger projects with lots of connections they tend to become convoluted really fast. They do a good job in showing spatial relations between modules. In turn they clash with rapid development techniques because prototypes are applied when the solution is not yet fully found. In this case they have to be frequently altered manually meaning a significant work overhead. While it is possible to automatically generate them from existing code their application lies within planning new code and not really serving as a visualization of existing one. Modern technology makes it possible to enhance them at least slightly by introducing interactivity collapsing unwanted sections to clear some space.
+
 ### Flow Charts
 
 Flow charts are a great tool to describe what a application should feel like to the end user. By visualizing cause and effect they tend to be only marginally responsible for the architecture of the application. On the flip side the architecture is very influential on what flows are possible for the end product. Often legacy code can act blocking to desired flows in the application. Well structured code can mitigate this somewhat but building code with all possible changes in mind adds a significant chunk of overhead to the code. In general it's the fastest to write static code that relies on rigid systems to work. This is often used for prototypes because there is no real benefit from making explorative code well engineered if it has a high chance to be scrapped.
 
-While traditionally one application 
+While traditionally one application was build for a single purpose due to resource limitations, popular modern applications tend to have a greater scope and therefore often no global user flow can be found. As an example the first versions of writing applications had a clear workflow that they inherited from typewriters. The user was supposed to either create a new document or open an existing one, make changes to it, touch up the format and aesthetics and then export it. Modern versions of word include extensive graphics libraries, AI interfaces and plugin systems and basic calculation frameworks. Within this a magnitude of different user flows are possible that the underlying architecture have to support.
 
 Flow charts can be automatically generated from code as well but are often prone to interpretation and are somewhat ambiguous. Ironically well engineered and flexible architecture tends to be hard to translate to flow charts because the code is build to allow future changes and specifically not dictate the flow of interactions. 
 
 ### Gnatt Diagrams
+
+Gnatt diagrams are the third popular visualization type. They are often used to find bottlenecks in existing code. They are great for visualizing 
 ## Modern Visualizations
 ### Code City
 ### gource.io
