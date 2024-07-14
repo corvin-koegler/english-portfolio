@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "report/report_003.md",
+                "file": "report/report_004.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "report/report_003.md",
+                "file": "report/report_004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "report/report_003.md",
+                "file": "report/report_004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "report/report_003.md"
+                "file": "report/report_004.md"
               }
             }
           },
@@ -160,10 +160,11 @@
   },
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
+    "report/report_003.md",
+    "report/report_004.md",
     "report/report.txt",
     "report/report_003 - Copy.md",
     "report/report_002.md",
-    "report/report_003.md",
     "report/report_meta.md",
     "report/report_001.md",
     "exercises/2024-05-27.md",
@@ -187,7 +188,6 @@
     "vocab/Testing.md",
     "media/Darknet Diaries.md",
     "vocab.md",
-    "exercises/diagram.drawio.md",
-    "exercises"
+    "exercises/diagram.drawio.md"
   ]
 }
