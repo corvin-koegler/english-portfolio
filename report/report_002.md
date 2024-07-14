@@ -12,4 +12,9 @@ One of the biggest struggles new hires of an established team have is understand
 	2. State of Modularization
 	3. Test coverage
 3. Evolution
+	1. Contributions
+	2. ...
 4. Communication
+	1. Who works on what
+	2. Estimate Story Points
+5. Conclusion
