@@ -66,4 +66,6 @@ It makes sense to visualize the relevant architecture to avoid this. Dependency 
 
 Very few software products are developed once, deployed and then never altered again. Most of them are in a state of constant evolution with weekly or even nightly builds being released to users. In that context it could be beneficial to review the evolution of the project, analysing how the project changed over time and what outside and internal factors led to improvements of downfalls.
 
-At employee level these statics can help to identify quality contributors and retaining valuable 
+At employee level these statics can help to identify quality contributors and retaining valuable developers by distributing budget accordingly. A employee who feels unseen and unvalued is likely to consider switching jobs potentially harming the projects development. It is also advisable to find repeating negative or positive patterns and adjusting aims and responses to those in real time.
+
+On a technical level bigger projects almost always leverage libraries and frameworks that combine frequently needed functionality. These libraries that are continuously developed as well might introduce breaking changes or labelling functionality as deprecated. Without an overview on what might change in the future the stability of production code might be endangered. It's a tedious job to crawl all existing code when a library announces deprecations and it's a security hazard to continue to use outdated versions without security updates.  
