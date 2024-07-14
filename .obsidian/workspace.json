@@ -11,8 +11,12 @@
             "id": "caa86f4d08f4882c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "report/report_002.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "report/report_002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "report/report_002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "report/report_002.md"
+              }
             }
           },
           {
@@ -164,8 +172,8 @@
   },
   "active": "caa86f4d08f4882c",
   "lastOpenFiles": [
-    "report/report_meta.md",
     "report/report_003.md",
+    "report/report_meta.md",
     "report/report_001.md",
     "report/report_002.md",
     "exercises/2024-05-27.md",
