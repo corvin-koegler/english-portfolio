@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "media/The power of effective data storytelling.md",
+                "file": "grammar/Undercover German - Don't stand out.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/The power of effective data storytelling.md",
+                "file": "grammar/Undercover German - Don't stand out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/The power of effective data storytelling.md",
+                "file": "grammar/Undercover German - Don't stand out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "media/The power of effective data storytelling.md"
+                "file": "grammar/Undercover German - Don't stand out.md"
               }
             }
           },
@@ -160,15 +160,17 @@
   },
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
-    "media/Making data mean more with storytelling.md",
+    "media/Darknet Diaries.md",
+    "grammar/Undercover German - Don't stand out.md",
+    "media/Moving beyond data visualization.md",
     "media/The power of effective data storytelling.md",
+    "media/Making data mean more with storytelling.md",
     "README.md",
     "vocab/Graphics.md",
     "vocab/Leadership.md",
     "vocab/Presentation.md",
     "vocab/Testing.md",
     "vocab/Security.md",
-    "media/Darknet Diaries.md",
     "media/How to avoid death by PowerPoint.md",
     "media/Lecture - How do I quote.md",
     "media/Software Testing Strategies.md",

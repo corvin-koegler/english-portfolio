@@ -5,8 +5,6 @@ tags:
 ---
 The video emphasizes the importance of effective data storytelling, comparing it to traditional storytelling, and outlines a framework for using data to tell compelling stories by defining the problem, solution, and necessary inputs.
 
-Sure! Here are some relevant vocabulary words from the video transcript:
-
 - **Quest**: A mission or task that the main character aims to accomplish.
 - **Data storytelling**: The practice of using data to tell a compelling story.
 - **Framework**: A structured approach or method for organizing information.
