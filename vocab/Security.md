@@ -9,6 +9,8 @@ sources: "[[Darknet Diaries]]"
 
 Security in software and systems is all about protecting data and ensuring everything runs smoothly without any unwanted intrusions. It involves finding and fixing weak spots, preventing breaches, and using tools like firewalls and VPNs to keep everything secure.
 
+_Note: these are from the boring vocab sites. The better ones are from the show notes of [[Darknet Diaries]]_
+
 ## Specific Terms
 
 | Word               | Definition                                                                                 |
