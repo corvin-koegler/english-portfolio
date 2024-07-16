@@ -12,6 +12,8 @@ Existing tools tend to utilize 3D environments to visualize codebases with the a
 
 #### Improved via AI
 
+_this is not useful_
+
 The prevalent use of 3D environments for visualizing codebases is often justified by the argument that humans have evolved to navigate a three-dimensional world, and therefore, 3D visualizations should be more intuitive. While it is true that the additional dimension can enhance information density, many such tools overlook a critical consideration: most applications and interaction tools are traditionally two-dimensional.
 
 For individuals without a background in 3D video games or 3D modelling software, computer interactions are typically limited to two dimensions. Although virtual reality (VR) and augmented reality (AR) hold potential for future changes, the immediate landscape remains dominated by 2D applications such as email programs, websites, and text editors. This introduces a significant point regarding the target audience for these tools.

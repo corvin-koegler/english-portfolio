@@ -11,8 +11,12 @@
             "id": "4a200b166fa4d13e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "media/Darknet Diaries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "media/Darknet Diaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "media/Darknet Diaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "media/Darknet Diaries.md"
+              }
             }
           },
           {
@@ -153,21 +161,24 @@
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
     "media/How to avoid death by PowerPoint.md",
-    "vocab/Testing.md",
-    "media/Software Testing Strategies.md",
     "media/Lecture - How do I quote.md",
+    "media/Software Testing Strategies.md",
+    "media/Why do we celebrate incompetent leaders.md",
+    "report/report_meta.md",
+    "report/drafts/report_001.md",
+    "report/drafts/report_002.md",
+    "report/drafts",
+    "report/report_corvin.pdf",
+    "vocab/Testing.md",
     "media/Darknet Diaries.md",
     "vocab/Graphics.md",
     "vocab/Leadership.md",
     "vocab/Presentation.md",
     "vocab/Security.md",
-    "report/report_004.md",
-    "report/report_003.md",
+    "report/drafts/report_004.md",
+    "report/drafts/report_003.md",
     "report/report.txt",
     "report/report_003 - Copy.md",
-    "report/report_002.md",
-    "report/report_meta.md",
-    "report/report_001.md",
     "exercises/2024-05-27.md",
     "media/papers/Voinea and Telea - 2009 - Visual querying and analysis of large software rep.pdf",
     "media/papers/Merino et al. - 2019 - VISON An Ontology-Based Approach for Software Vis.pdf",
@@ -176,10 +187,7 @@
     "media/papers/Martin - 2000 - Design Principles and Design Patterns.pdf",
     "media/papers/Paratte et al. - Compressive Embedding and Visualization using Grap.pdf",
     "media/papers/Anslow - Collaborative Software Visualization in Co-located.pdf",
-    "media/papers/Merino et al. - 2018 - A systematic literature review of software visuali.pdf",
-    "report",
     "README.md",
-    "media/Why do we celebrate incompetent leaders.md",
     "vocab.md",
     "exercises/diagram.drawio.md"
   ]
