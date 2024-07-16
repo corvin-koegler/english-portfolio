@@ -1,0 +1,1 @@
+This is my favourite book about an astronaut getting stuck on mars and using his engineering talent to get back to earth. It got awarded in multiple instances for realistic descriptions and is way better than the (also good) movie. I like to read before going to sleep therefore there are no notes about it. 
