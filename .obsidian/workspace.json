@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "media/The power of effective data storytelling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "media/The power of effective data storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "media/The power of effective data storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "media/The power of effective data storytelling.md"
               }
             }
           },
@@ -160,6 +160,9 @@
   },
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
+    "media/Making data mean more with storytelling.md",
+    "media/The power of effective data storytelling.md",
+    "README.md",
     "vocab/Graphics.md",
     "vocab/Leadership.md",
     "vocab/Presentation.md",
@@ -187,7 +190,6 @@
     "media/papers/Martin - 2000 - Design Principles and Design Patterns.pdf",
     "media/papers/Paratte et al. - Compressive Embedding and Visualization using Grap.pdf",
     "media/papers/Anslow - Collaborative Software Visualization in Co-located.pdf",
-    "README.md",
     "vocab.md",
     "exercises/diagram.drawio.md"
   ]
