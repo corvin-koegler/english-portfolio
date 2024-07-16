@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocab/Graphics.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocab/Graphics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocab/Graphics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocab/Graphics.md"
+                "file": "README.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
+    "vocab/Graphics.md",
     "vocab/Leadership.md",
     "vocab/Presentation.md",
     "vocab/Testing.md",
@@ -174,7 +175,6 @@
     "report/drafts/report_002.md",
     "report/drafts",
     "report/report_corvin.pdf",
-    "vocab/Graphics.md",
     "report/drafts/report_004.md",
     "report/drafts/report_003.md",
     "report/report.txt",
