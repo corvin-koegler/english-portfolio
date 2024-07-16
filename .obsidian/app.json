@@ -1,6 +1,8 @@
 {
-  "vimMode": true,
+  "vimMode": false,
   "promptDelete": false,
   "spellcheck": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }
