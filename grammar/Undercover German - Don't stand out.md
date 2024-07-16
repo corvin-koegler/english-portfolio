@@ -15,4 +15,8 @@ I have shortened most of them and used different examples when we were talking a
 6. "I must to go now" This is just embarrassing. But now I know what modal verbs are. "I must go now"
 7. "Chef" in German means "boss," not "cook." Saying "Yes Chef" got me the nick name Ramsey.
 8. "I will jump over my shadow" < "I will go the extra mile". When things get heated I'm translating literally. Makes some funny moments.
-9. "ship" vs. "sheep." This was a pronounciation issue
+9. "ship" vs. "sheep." This was a pronunciation issue. A battle sheep in the cutscene would have been cuter tho.
+10. "CONduct" vs. "conDUCT". Apparently one is about electricity and one about behaviour.
+11. Skipping small talk can come across as rude or abrupt. I was forced to include this.
+
+Someone in a random online lobby asked if I was Swedish. In my book Swedish people have a great accent. It seemed to be a temporary improvement and most could tell my heritage right away.  
