@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocab/Testing.md",
+                "file": "vocab/Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vocab/Testing.md",
+                "file": "vocab/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vocab/Testing.md",
+                "file": "vocab/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vocab/Testing.md"
+                "file": "vocab/Presentation.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   "active": "4a200b166fa4d13e",
   "lastOpenFiles": [
     "vocab/Security.md",
+    "vocab/Testing.md",
     "vocab/Presentation.md",
     "vocab/Leadership.md",
     "report/report_004.md",
@@ -185,7 +186,6 @@
     "media/Why do we celebrate incompetent leaders.md",
     "media/Software Testing Strategies.md",
     "media/How to avoid death by PowerPoint.md",
-    "vocab/Testing.md",
     "media/Darknet Diaries.md",
     "vocab.md",
     "exercises/diagram.drawio.md"

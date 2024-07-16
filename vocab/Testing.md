@@ -12,16 +12,16 @@ Tests evaluate the state of a system. This includes subjective criteria like acc
 
 | Word                | Definition                                                               |
 | ------------------- | ------------------------------------------------------------------------ |
-| Alpha testing       | The first testing iteration within the organization.                     |
-| Beta testing        | The testing iteration with a select small group of customers.            |
-| Black-Box testing   | Testing functionality without focus on the internal structure.           |
-| Unit testing        | Testing of the smallest units against known behaviour.                   |
-| Integration testing | Testing the integration of a module with the existing sytsem.            |
-| Functional testing  | Tests against functional requirements.                                   |
-| System testing      | Testing the system as a whole.                                           |
-| Acceptance testing  | Testing the product against core user groups.                            |
-| Regression testing  | Running existing tests to detect new features breaking existing modules. |
-| Performance testing | Running benchmarks against units and modules.                            |
-| Security testing    | Testing the system against known security vulnerabilities.               |
-| A/B testing         | Testing a change against two groups of users.                            |
-| White-Box testing   | Tests aimed purely at internal systems and logic.                        |
+| Alpha testing       | The initial testing phase conducted within the organization to identify bugs before releasing the product to external users. |
+| Beta testing        | A testing phase where a select small group of customers evaluates the software in a real-world environment to provide feedback and identify issues not caught during alpha testing. |
+| Black-Box testing   | A testing approach that focuses on the functionality of the software without considering the internal code structure. The tester only knows the inputs and expected outputs. |
+| Unit testing        | Testing of the smallest, individual units of code, such as functions or methods, to ensure they perform as expected. |
+| Integration testing | Testing the interaction between integrated units or modules to ensure they work together as intended within the existing system. |
+| Functional testing  | Testing the software against its functional requirements to ensure it performs the intended tasks. |
+| System testing      | Testing the complete and integrated software system to verify that it meets the specified requirements. |
+| Acceptance testing  | Evaluating the product by core user groups or customers to determine whether it meets their needs and is ready for production. |
+| Regression testing  | Re-running previously conducted tests to ensure that new changes or features have not introduced any new bugs or broken existing functionality. |
+| Performance testing | Assessing the software's performance, including speed, responsiveness, and stability under various conditions. |
+| Security testing    | Identifying vulnerabilities within the system to ensure it is protected against potential threats and attacks. |
+| A/B testing         | Comparing two versions of a feature or product with two groups of users to determine which version performs better based on predefined criteria. |
+| White-Box testing   | A testing approach that examines the internal structure and workings of the software, often performed by developers who have knowledge of the codebase. |
